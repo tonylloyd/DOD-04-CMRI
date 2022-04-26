@@ -2,7 +2,7 @@
 
 #include <CMRI.h>
 
-String RailwayName   = "Little Wicket Railway";
+String RailwayName   = "Your Model Railway";
                                      // DEFAULT = "Your Model Railway"              // SET THIS TO DISPLAY YOUR MODEL RAILWAY NAME IN THE INTRODUCTION SCREEN
                                                                                     //  This is purely for fun and does not alter any other part of the process.
 #define SENSOR1 2
