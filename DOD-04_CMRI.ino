@@ -169,10 +169,3 @@ void cls() {                                                                    
 void blankLN() {                                                                    // inserts one blank line into serial monitor - used for formatting.
     Serial.println("                                                        ");
 }
-
-
-void intro() {                                                                      // Displays introduction at start of program.
-  Serial.print(RailwayName); Serial.println(" - Servo Calibration");                // "Railway Name" - Servo Calibration
-  Serial.print("Version: "); Serial.println(vers);                                  // Displays Version Number
-  blankLN();
-}
